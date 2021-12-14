@@ -1094,6 +1094,7 @@ void menuUtama()
     system("cls");
     printf("\n********************************");
     printf("\n*     Aplikasi Piutang         *");
+    printf("\n*     (Berlisensi OJK)         *");
     printf("\n********************************");
     printf("\nPilih Menu : ");
     printf("\n1. Data Piutang");
